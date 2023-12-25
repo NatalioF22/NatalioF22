@@ -25,6 +25,9 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 
 ![Natalio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalioF22&show_icons=true&theme=radical)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalioF22&layout=compact)
+
 ---
 
 ## 🤝 Open for Collaboration
