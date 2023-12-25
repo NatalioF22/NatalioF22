@@ -1,4 +1,3 @@
-
 # Hello World!! This is Natalio Gomes.
 
 Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, technology, and continuous learning. Feel free to explore my repositories and dive into the projects I've been working on.
@@ -13,35 +12,23 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nataliogomes/) for professional networking and collaboration.
 
 ## Projects
-- **Project A**: An implementation of CRUD on Java SpringBoot. [View Repository](https://github.com/NatalioF22/ManageMyEvents)
-- **Project B**: TradeNenuxs Online is a digital marketplace platform designed to bridge users and products by offering a seamless navigation experience. [View Repository](https://github.com/NatalioF22/TradeNexus)
-- **Project C**: This repository contains a collection of intermediate-level projects that are designed to improve your programming skills. The projects are implemented in Java, JavaScript, and Python. [View Repository](https://github.com/NatalioF22/Intermediate-Projects)
+- **Project A**: A implementation of CRUD on Java SpringBoot. [View Repository](https://github.com/NatalioF22/ManageMyEvents)
+- **Project B**: TradeNenuxs Online is a digital marketplace platform designed to bridge users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
+- **Project C**: This repository contains a collection of intermediate-level projects that are designed to improve your programming skills. The projects are implemented in Jav, JavaScript and Python. [View Repository](https://github.com/NatalioF22/Intermediate-Projects)
 
 ## Let's Collaborate!
 I'm always open to collaborating on interesting projects or discussing innovative ideas. If you have something in mind, don't hesitate to reach out!
 
+---
+
+_**Note**: Remember to replace "your-linkedin-link" with the actual link to your LinkedIn profile. Also, you can add more details or projects as needed!_
+
+
 ## 🔧 Technologies & Tools
-<table>
-  <tr>
-    <th>Programming Languages</th>
-    <th>Platforms</th>
-  </tr>
-  <tr>
-    <td>
-      <ul>
-        <li>Python ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)</li>
-        <li>Java ![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)</li>
-        <li>PHP ![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>WordPress ![](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&logoColor=white)</li>
-        <li>Wix.com ![](https://img.shields.io/badge/-Wix.com-0C6EFC?style=flat&logo=Wix&logoColor=white)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### Programming Languages
+- Python ![](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
+- Java ![](https://img.shields.io/badge/-Java-007396?style=flat&logo=Java&logoColor=white)
+- PHP ![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white)
 
 ### Database Languages
 - MySQL ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
@@ -58,11 +45,13 @@ I'm always open to collaborating on interesting projects or discussing innovativ
 - HTML ![](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 - CSS ![](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 
+### Platforms
+- WordPress ![](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=WordPress&logoColor=white)
+- Wix.com ![](https://img.shields.io/badge/-Wix.com-0C6EFC?style=flat&logo=Wix&logoColor=white)
+
 ### Collaboration Tools
 - Zoom ![](https://img.shields.io/badge/-Zoom-2D8CFF?style=flat&logo=Zoom&logoColor=white)
-- Slack ![](https://img.shields.io/badge/-Slack-4A154B
-
-?style=flat&logo=Slack&logoColor=white)
+- Slack ![](https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=Slack&logoColor=white)
 
 ### Operating Systems
 - macOS ![](https://img.shields.io/badge/-macOS-000000?style=flat&logo=Apple&logoColor=white)
@@ -75,7 +64,3 @@ I'm always open to collaborating on interesting projects or discussing innovativ
 ### DevOps Tools
 - Git Version Control ![](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 - Heroku ![](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=Heroku&logoColor=white)
-
----
-
-_**Note**: This layout assumes the use of HTML in your GitHub README for proper formatting. Be sure to replace the placeholders with your actual information._
