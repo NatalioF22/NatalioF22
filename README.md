@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 ---
 ## My GitHub Statistics
 
-![Natalio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalioGomes&show_icons=true&theme=radical)
+![Natalio's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatalioF22&show_icons=true&theme=radical)
 
 ---
 
