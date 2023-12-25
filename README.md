@@ -1,4 +1,4 @@
-# Hello World!! This is Natalio Gomes.
+# Hello!! I'm Natalio Gomes.
 
 Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, technology, and continuous learning. Feel free to explore my repositories and dive into the projects I've been working on.
 
@@ -14,8 +14,6 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 - **Project A**: A implementation of CRUD on Java SpringBoot. [View Repository](https://github.com/NatalioF22/ManageMyEvents)
 - **Project B**: TradeNenuxs Online is a digital marketplace platform designed to bridge users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
 - **Project C**: This repository contains a collection of intermediate-level projects that are designed to improve your programming skills. The projects are implemented in Jav, JavaScript and Python. [View Repository](https://github.com/NatalioF22/Intermediate-Projects)
-
-_**Note**: Remember to replace "your-linkedin-link" with the actual link to your LinkedIn profile. Also, you can add more details or projects as needed!_
 
 ## 🔧 Technologies & Tools
 
