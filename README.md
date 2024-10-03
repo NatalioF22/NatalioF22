@@ -11,9 +11,9 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nataliogomes/) for professional networking and collaboration.
 
 ## Projects
-- **Project A**: A implementation of CRUD on Java SpringBoot. [View Repository](https://github.com/NatalioF22/ManageMyEvents)
+- **Project A**: Developed and maintained a spring Restfull Blog application, using Spring Boot for backend development. Implemented RESTful APIs and CRUD operations using Spring MVC, Spring JDBC, and Hibernate, while integrating advanced filtering and search functionality to enhance the user experience. [View Repository](https://github.com/NatalioF22/SpringBlog)
 - **Project B**: TradeNenuxs Online is a digital marketplace platform designed to bridge users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
-- **Project C**: This repository contains a collection of intermediate-level projects that are designed to improve your programming skills. The projects are implemented in Jav, JavaScript and Python. [View Repository](https://github.com/NatalioF22/Intermediate-Projects)
+- **Project C**: In this pure Python project, I applied the "clean code" best practices. This project is designed to process, filter, and display meteorite data using a console-based interface. The tool provides functionalities for reading, cleaning, and organizing meteorite data, and allows users to generate reports in both text and Excel formats. The project is modular, with different Python files responsible for specific tasks such as data handling, filtering, and display. [View Repository](https://github.com/NatalioF22/DataFilter)
 
 
 ## 🔧 Technologies & Tools
