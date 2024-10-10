@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, technology, and continuous learning. Feel free to explore my repositories and dive into the projects I've been working on.
 
 ## About Me
-- 👨‍💻 Full-Stack Developer with a knack for creating seamless user experiences.
+- 👨‍💻 Software Engineer passionate about solving problems.
 - 🌱 Continuously learning and experimenting with new technologies.
 
 ## Connect with Me
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 
 ## Projects
 - **Project A**: Developed and maintained a spring Restfull Blog application, using Spring Boot for backend development. Implemented RESTful APIs and CRUD operations using Spring MVC, Spring JDBC, and Hibernate, while integrating advanced filtering and search functionality to enhance the user experience. [View Repository](https://github.com/NatalioF22/SpringBlog)
-- **Project B**: TradeNenuxs Online is a digital marketplace platform designed to bridge users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
+- **Project B**: TradeNenuxs Online is a digital marketplace platform that bridges users and products by offering a seamless navigation experience.  [View Repository](https://github.com/NatalioF22/TradeNexus)
 - **Project C**: In this pure Python project, I applied the "clean code" best practices. This project is designed to process, filter, and display meteorite data using a console-based interface. The tool provides functionalities for reading, cleaning, and organizing meteorite data, and allows users to generate reports in both text and Excel formats. The project is modular, with different Python files responsible for specific tasks such as data handling, filtering, and display. [View Repository](https://github.com/NatalioF22/DataFilter)
 
 
@@ -25,7 +25,6 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatalioF22&layout=compact)
 
 ---
-
 ## 🤝 Open for Collaboration
 I'm always open to collaborating on interesting projects. If you have an idea or need help with something, let's connect and make it happen!
 
