@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, tech
 - 🌱 Continuously learning and experimenting with new technologies.
 
 ## Connect with Me
-- 🌐 Visit my [website](http://www.nataliogomes.com) for more about my work and interests.
+- 🌐 Visit my [website](https://s3.amazonaws.com/nataliogomes.net/index.html) for more about my work and interests.
 - 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/nataliogomes/) for professional networking and collaboration.
 
 ## Projects
