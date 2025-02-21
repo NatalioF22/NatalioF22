@@ -3,7 +3,8 @@
 Welcome to my GitHub profile! I'm Natalio, and I'm passionate about coding, technology, and continuous learning. Feel free to explore my repositories and dive into the projects I've been working on.
 
 ## About Me
-- 👨‍💻 Software Engineer passionate about solving problems.
+- 👨‍💻 Computer Science student who desires to become a good Software Engineer
+- Passionate about solving problems.
 - 🌱 Continuously learning and experimenting with new technologies.
 
 ## Connect with Me
